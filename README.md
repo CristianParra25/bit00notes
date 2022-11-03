@@ -1,5 +1,5 @@
 # bit00notes
 ## Descripción
-Este repositorio es para una tarea del Bootcamp de desarrollo de software de BIT.
+Este es mi primer repositorio, el cual es para una tarea del Bootcamp de desarrollo de software de BIT.
 ## Autor
 [Cristian](https://www.linkedin.com/in/cristiansantiagoparragomez/)
